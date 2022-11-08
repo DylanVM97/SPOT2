@@ -32,3 +32,11 @@ Para el ejercicio bonus,  requieres el ShapeFile que encontraras en la carpeta E
 ## Material de apoyo
 Si requieres saber como fucnionan los AGEBS
 - Ver más en el capítulo 1.5 del manual del INEGI: https://www.inegi.org.mx/contenidos/temas/mapas/mg/metadatos/manual_cartografia_censal.pdf
+
+## Instrucciones del ejercicio
+Puedes ver lo que se esta solicitando en el archivo PDF
+- Data Analyst Challenge 
+
+## Resultados Finales
+Para ver los resultados del ejercicio para personal sin background tecnico en el orden especifico de las preguntas, puede ver el siguiente archivo PDF
+- SPOT2
